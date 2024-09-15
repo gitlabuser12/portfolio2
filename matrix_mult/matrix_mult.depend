@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1700746770 source:d:\work\lygiagrtus\openmp\matrix_mult\main.cpp
+	<iostream>
+	<omp.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1703177586 source:d:\work\lygiagrtus\project\project\main.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<random>
+	<omp.h>
+	"insertion_sort.h"
+
+1703177661 d:\work\lygiagrtus\project\project\insertion_sort.h
+	<iostream>
+	<vector>
+
